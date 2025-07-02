@@ -1,0 +1,5 @@
+[
+    { "id": "1", "category": "fruits", "name": "Apple", "quantity": 50 },
+    { "id": "2", "category": "vegetables", "name": "Carrot", "quantity": 30 },
+    { "id": "3", "category": "fruits", "name": "Banana", "quantity": 20 }
+]
